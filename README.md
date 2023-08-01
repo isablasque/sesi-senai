@@ -18,3 +18,4 @@ git pull origin "nomedabranch"
 git add .
 git commit -m "descrição"
 git push origin "nomedabranch"
+
